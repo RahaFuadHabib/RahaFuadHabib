@@ -3,7 +3,7 @@
 <h3 align="center">Full Stack Developer & Systems Engineer 🛠️💻</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F7A8B8&center=true&vCenter=true&width=460&lines= Building+backends+that+don't+fall+over+%F0%9F%9A%80;IoT+%2B+AI+%2B+Cloud+tinkerer+%E2%9C%A8;4x+hackathon+winner+%F0%9F%8F%86;Currently%3A+BSc+CS+%40+Kibabii+University" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F7A8B8&center=true&vCenter=true&width=460&lines=Building+backends+that+don't+fall+over+%F0%9F%9A%80;IoT+%2B+AI+%2B+Cloud+tinkerer+%E2%9C%A8;4x+hackathon+winner+%F0%9F%8F%86;Currently%3A+BSc+CS+%40+Kibabii+University" alt="Typing SVG" />
 </p>
 
 ---
